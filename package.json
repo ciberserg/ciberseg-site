@@ -1,0 +1,28 @@
+{
+  "name": "ciberseg-site",
+  "version": "0.0.1",
+  "description": "Procedimentos, normas e políticas de Cibersegurança da TI Corporativa BRA",
+  "main": "index.js",
+  "authors": {
+    "name": "Cibersegurança TI Corporativa BRA",
+    "email": "ciberseg@asav.org.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikong/ciberseg-site.git"
+  },
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/maikong/ciberseg-site/issues"
+  },
+  "homepage": "https://github.com/maikong/ciberseg-site#readme",
+  "keywords": [],
+  "author": ""
+}
