@@ -40,11 +40,25 @@ module.exports = {
       },
       {
         text: 'Guias',
-        link: '/guias/'
+        items: [
+          {text: 'Boas práticas', link: '/guias/boas-praticas/' },
+          {text: 'Configuração segura', link: '/guias/configuracao-segura/' },
+          {text: 'Gestão de acessos', link: '/guias/gestao-acessos/' },
+          {text: 'Uso do e-mail', link: 'http://projeto.unisinos.br/open/guia_de_uso_do_e-mail/'},
+        ]
       },
       {
         text: 'FAQ',
         link: '/faq/'
+      },
+      {
+        text: 'Documentos',
+        link: '/docs/'
+      },
+
+      {
+        text: 'Alertas',
+        link: '/alertas/'
       },
       {
         text: 'Jesuítas Brasil',
