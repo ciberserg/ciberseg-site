@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'Jesuítas Brasil',
+  description: 'TI Corporativa',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -35,6 +35,10 @@ module.exports = {
     // logo: 'Marca_Oficial_Jesuítas_Brasil.png',
     nav: [
       {
+        text: 'Home',
+        link: '/',
+      },
+      {
         text: 'Sobre',
         link: '/sobre/',
       },
@@ -44,17 +48,16 @@ module.exports = {
           {text: 'Boas práticas', link: '/guias/boas-praticas/' },
           {text: 'Configuração segura', link: '/guias/configuracao-segura/' },
           {text: 'Gestão de acessos', link: '/guias/gestao-acessos/' },
-          {text: 'Uso do e-mail', link: 'http://projeto.unisinos.br/open/guia_de_uso_do_e-mail/'},
         ]
       },
       {
         text: 'FAQ',
         link: '/faq/'
       },
-      {
-        text: 'Documentos',
-        link: '/docs/'
-      },
+      // {
+      //   text: 'Documentos',
+      //   link: '/docs/'
+      // },
 
       {
         text: 'Alertas',
@@ -65,19 +68,24 @@ module.exports = {
         link: 'https://www.jesuitasbrasil.org.br/'
       }
     ],
-    // sidebar: {
-    //   '/guide/': [
-    //     {
-    //       title: 'Guide',
-    //       collapsable: false,
-    //       children: [
-    //         '',
-    //         'using-vue',
-    //       ]
-    //     }
-    //   ],
-    // }
-  },
+    sidebar: {
+      '/guias/boas-praticas/': [
+        '',
+        'senhas',
+        'email',
+        'videoconf',
+        'onedrive',
+        'direito-da-personalidade',
+      ],
+      '/guias/configuracao-segura/': [
+        'wordpress',
+        'joomla',
+        'windows-server',
+        'windows-desktop',
+        'linux'
+      ],
+    }
+ },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/

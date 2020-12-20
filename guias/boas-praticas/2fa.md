@@ -1,8 +1,5 @@
----
-sidebar: auto
----
-
 # Configuração do 2FA
+
 ## Introdução
 Esse procedimento descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 

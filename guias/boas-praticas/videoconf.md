@@ -1,4 +1,4 @@
-# Videoconferência – Guia para para manter a segurança
+# Videoconferência
 
 As ferramentas de videoconferência assumiram um importante papel em nossas rotinas atuais. Entretanto questões como conveniência, usabilidade, velocidade, estabilidade, privacidade e  proteção de dado precisam ser balanceadas de modo a reduzir os riscos de nossa organização.
 

@@ -1,7 +1,5 @@
----
-sidebar: auto
----
 # Senhas
+
 A senha é nossa identidade digital e é a primeira barreira de proteção dos principais sistemas. 
 
 ## Mecanismos de autenticação

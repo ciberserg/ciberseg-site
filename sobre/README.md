@@ -1,10 +1,10 @@
 # Sobre
 
-Olá! Bem-vindo à pagina da Equipe de Cibersegurança BRA. Somos responsáveis por coordenar as ações de cibersegurança na rede e sistemas da TI Coporativa BRA.
+Olá! Bem-vindo à pagina da Equipe de Cibersegurança. Somos responsáveis por coordenar as ações de cibersegurança na rede e sistemas da TI Coporativa.
 
 ## Serviços
 
--   Políticas, normas e procedimentos
+-   Normas e procedimentos tecnológicos
 -   Conscientização
 -	Disseminação práticas seguras
 -   Arquiteturas seguras

@@ -7,8 +7,6 @@ tags:
   - riscos
 ---
 
-<card> </card>
-
 # Últimos alertas de Cibersegurança
 
 ## Fortinet FortiOS - Vulnerabilidade em software 

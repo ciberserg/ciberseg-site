@@ -1,4 +1,4 @@
-# Direitos da Personalidade – Imagem, nome e som da voz
+# Direitos da imagem, nome e som da voz
 
 ## O que são direitos da personalidade?
 
