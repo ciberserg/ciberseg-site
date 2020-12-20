@@ -9,6 +9,13 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## CISA e FBI alertam para aumento de ciberataques contra colégios 
+*Data: 18/12/2020*
+
+A Agência de Segurança Cibernética e de Infraestrutura dos Estados Unidos (CISA), juntamente com o FBI, alertou sobre o aumento de ataques cibernéticos direcionados ao setor educacional K-12 (equivalente a Educação Básica). Os ataques mais comuns são ransoware, roubo de informações e interrupções de serviços de teleaula. O relatório ainda destaca que é esperado um aumento ainda maior para 2021.
+
+[Maiores informações...](https://us-cert.cisa.gov/sites/default/files/publications/AA20-345A_Joint_Cybersecurity_Advisory_Distance_Learning_S508C.pdf)
+
 ## Fortinet FortiOS - Vulnerabilidade em software 
 *Data: 10/11/2020*
 
