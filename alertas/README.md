@@ -9,6 +9,20 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## Vulnerabilidade crítica no CORE CMS Drupal 
+*Data: 22/04/2021*
+
+Grave vulnerabilidade no CORE CMS Drupal.
+
+Versões afetadas:
+ - Drupal 9.1.x
+ - Drupal 9.0.x
+ - Drupal 8.9.x
+ - Drupal 7.x
+
+[Maiores informações...](https://www.drupal.org/sa-core-2021-002)
+
+
 ## CISA e FBI alertam para aumento de ciberataques contra colégios 
 *Data: 18/12/2020*
 
