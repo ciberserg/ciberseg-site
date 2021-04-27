@@ -2,6 +2,8 @@
 
 Este guia foi criado com intuito de reforçar a segurança na hora de criar e configurar um site, também foi criado um checklist com as configurações de segurança que são de caráter obrigatório para todos os sites de responsabilidade da instituição. O checklist para novos sites que irão para o ambiente de produção deverá ser encaminhado preenchido para a equipe de Cibersegurança para avaliação e validação.
 
+![](/img/website.jpg)
+
 ## Manter o Joomla sempre atualizado.
 Sempre que houver atualizações, o recomendado é atualizar. 
 O Joomla oferece atualizações automáticas, basta acessar o painel de administração.

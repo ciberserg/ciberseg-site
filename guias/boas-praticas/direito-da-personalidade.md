@@ -1,5 +1,7 @@
 # Direitos da imagem, nome e som da voz
 
+![](/img/dir_imagem.jpg)
+
 ## O que são direitos da personalidade?
 
 Os direitos da personalidade são aqueles direitos necessários para que a pessoa, o indivíduo, possa se inserir na sociedade e que tem amplo respaldo legal pela Constituição Federal  e o Código Civil. 

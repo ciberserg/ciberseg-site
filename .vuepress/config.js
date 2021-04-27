@@ -39,10 +39,6 @@ module.exports = {
         link: '/',
       },
       {
-        text: 'Sobre',
-        link: '/sobre/',
-      },
-      {
         text: 'Guias',
         items: [
           {text: 'Boas práticas', link: '/guias/boas-praticas/' },
@@ -64,6 +60,10 @@ module.exports = {
         link: '/alertas/'
       },
       {
+        text: 'Sobre',
+        link: '/sobre/',
+      },
+      {
         text: 'Jesuítas Brasil',
         link: 'https://www.jesuitasbrasil.org.br/'
       }
@@ -76,6 +76,8 @@ module.exports = {
         'videoconf',
         'onedrive',
         'direito-da-personalidade',
+        '2fa',
+        'whatsapp'
       ],
       '/guias/configuracao-segura/': [
         'wordpress',

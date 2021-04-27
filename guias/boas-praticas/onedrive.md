@@ -1,6 +1,6 @@
 # OneDrive
+![](/img/onedrive.jpg)
 
-## Sobre
 O Microsoft OneDrive for Business é uma solução de armazenamento de arquivos em nuvem. Os arquivos são armazenados em servidores espalhados pelo mundo em um modelo que assegura sua disponibilidade em caso de falhas. Diversos padrões de proteção são adotados pela Microsoft para melhorar a segurança das informações armazenadas nele. Entretanto, sendo o OneDrive uma solução de armazenamento e compartilhamento de informações em nuvem, alguns pontos são importantes para segurança de nossas informações:
 
 - Os arquivos armazenados em nuvem podem ser acessados de qualquer local e em qualquer horário;

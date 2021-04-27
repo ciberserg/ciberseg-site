@@ -2,6 +2,8 @@
 
 Este guia foi criado com intuito de reforçar a segurança na hora de criar e configurar um site,também foi criado um checklist com as configurações de segurança que são de caráter obrigatório para todos os sites de responsabilidade da instituição. O checklist para novos sites que irão para o ambiente de produção deverá ser encaminhado preenchido para a equipe de Cibersegurança para avaliação e validação.
 
+![](/img/website.jpg)
+
 ## Manter o WordPress sempre atualizado
 
 A versão mais recente do WordPress está sempre disponível no site principal em [http://wordpress.org](http://wordpress.org) e a versão em Português Brasileiro em [http://br.wordpress.org](http://br.wordpress.org). Não existem versões oficiais disponíveis em outros sites nunca baixe ou instale o WordPress de qualquer outro endereço que não o [http://wordpress.org](http://wordpress.org).

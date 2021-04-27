@@ -1,6 +1,8 @@
 # Senhas
 
-A senha é nossa identidade digital e é a primeira barreira de proteção dos principais sistemas. 
+A senha é nossa identidade digital e é a primeira barreira de proteção dos principais sistemas.
+
+![](/img/password.jpg)
 
 ## Mecanismos de autenticação
 Usuário e senha são sem dúvida os métodos de autenticação mais conhecimentos, mas eles não são os únicos. Existem três grupos básicos de mecanismos de autenticação:
