@@ -78,7 +78,6 @@ module.exports = {
         'direito-da-personalidade',
         '2fa',
         'whatsapp',
-        'desktops'
       ],
       '/guias/configuracao-segura/': [
         'wordpress',
