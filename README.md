@@ -22,7 +22,7 @@ npm run dev
 
 # Git tips
 ```
-git pull -all
+git pull all
 
 git checkout dev
 
