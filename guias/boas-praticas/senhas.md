@@ -14,12 +14,11 @@ Informações biométricas, como a sua impressão digital, a palma da sua mão, 
 ::: tip aquilo que você é
 Informações biométricas, como a sua impressão digital, a palma da sua mão, a sua voz e o seu olho.
 :::
+
 ::: tip aquilo que você é
 Informações biométricas, como a sua impressão digital, a palma da sua mão, a sua voz e o seu olho.
 :::
-::: tip aquilo que você é
-Informações biométricas, como a sua impressão digital, a palma da sua mão, a sua voz e o seu olho.
-:::
+
 ::: tip aquilo que você é
 Informações biométricas, como a sua impressão digital, a palma da sua mão, a sua voz e o seu olho.
 :::
