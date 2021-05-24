@@ -77,7 +77,8 @@ module.exports = {
         'onedrive',
         'direito-da-personalidade',
         '2fa',
-        'whatsapp'
+        'whatsapp',
+        'desktops'
       ],
       '/guias/configuracao-segura/': [
         'wordpress',
