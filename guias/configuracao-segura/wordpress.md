@@ -4,6 +4,8 @@ Este guia foi criado com intuito de reforçar a segurança na hora de criar e co
 
 ![](/img/website.jpg)
 
+[[toc]]
+
 ## Manter o WordPress sempre atualizado
 
 A versão mais recente do WordPress está sempre disponível no site principal em [http://wordpress.org](http://wordpress.org) e a versão em Português Brasileiro em [http://br.wordpress.org](http://br.wordpress.org). Não existem versões oficiais disponíveis em outros sites nunca baixe ou instale o WordPress de qualquer outro endereço que não o [http://wordpress.org](http://wordpress.org).

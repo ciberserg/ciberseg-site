@@ -4,6 +4,8 @@ Este guia foi criado com intuito de reforçar a segurança na hora de criar e co
 
 ![](/img/website.jpg)
 
+[[toc]]
+
 ## Manter o Joomla sempre atualizado.
 Sempre que houver atualizações, o recomendado é atualizar. 
 O Joomla oferece atualizações automáticas, basta acessar o painel de administração.
