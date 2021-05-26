@@ -77,7 +77,7 @@ Se no passo 5 você selecionou a opção <b>Usar código de verificação</b>, v
 
 Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
 
- ## Em caso de problemas
+ ## Problemas Comuns
  
 Há alguns problemas comuns com a verificação de dois fatores que parecem ocorrer com mais frequência do que gostaríamos. Listamos abaixo algumas soluções para os problemas que podem ocorrer:
  
@@ -94,9 +94,13 @@ Se você perdeu ou teve seu dispositivo móvel roubado, execute uma das seguinte
    
 É altamente recomendável informar a perda ou o roubo ao Suporte técnico da sua organização. O Suporte técnico pode fazer as atualizações apropriadas na sua conta. Após suas configurações serem limpas, você será solicitado a registrar-se para autenticação de dois fatores na próxima vez que você entrar.
 
+<b>Alguém está tentando a minha conta</b>
+
+Caso você receba no seu dispositivo móvel uma notificação para aprovar a entrada no Office 365 e não foi você que solicitou, sempre marque a opção <b>NEGAR<b> e depois selecione a opção Relatório. Assim a equipe de segurança receberá um relatório da tentativa de fraude. 
 
 
-
+  
+Orientamos que troque a sua senha o mais rápido possivel em caso do recebimento dessa notificação.
 
 
 
