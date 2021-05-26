@@ -1,6 +1,6 @@
 # Wordpress
 
-Este guia foi criado com intuito de reforçar a segurança na hora de criar e configurar um site,também foi criado um checklist com as configurações de segurança que são de caráter obrigatório para todos os sites de responsabilidade da instituição. O checklist para novos sites que irão para o ambiente de produção deverá ser encaminhado preenchido para a equipe de Cibersegurança para avaliação e validação.
+Este guia tem como objetivo apoiar as equipes de tecnologia no desenvolvimento e hospedagem de sites Wordpress. Ele apresenta uma lista de configurações mínimas de segurança para tornar o site mais resilientes a ciberataques.
 
 ![](/img/website.jpg)
 
@@ -21,7 +21,7 @@ Plugins e temas desatualizados são os principais vetores de entrada para um ata
 Plugins e temas não utilizados devem ser removidos do CMS.
 
 ## Ocultar a versão do WordPress
-Por padrão, os7 temas do WP utilizam uma metatag no código que divulga, para fins de estatística, a versão que está sendo utilizada. Em termos práticos, esta informação para um usuário ou para o administrador do site é inútil e deixar estas informações públicas não é aconselhável. Em varreduras feitas para localizar sites vulneráveis esta informação de versão é utilizada para definir a forma de ataque e explorar brechas de segurança.
+Por padrão, os temas do WP utilizam uma metatag no código que divulga, para fins de estatística, a versão que está sendo utilizada. Em termos práticos, esta informação para um usuário ou para o administrador do site é inútil e deixar estas informações públicas não é aconselhável. Em varreduras feitas para localizar sites vulneráveis esta informação de versão é utilizada para definir a forma de ataque e explorar brechas de segurança.
 
 Esta informação fica localizadas no arquivo header.php de seu tema. Para desabilitar, remova a linha a seguir: 
 
@@ -35,8 +35,7 @@ Outra maneira de remover esta informação é adicionar o código abaixo aos seu
 <?php remove_action(‘wp_head’, ‘wp_generator’); ?>
 ```
 
- Esta linha força a remoção da informação de forma dinâmica.
- A configuração também poderá ser feita via Wordfence.
+Esta linha força a remoção da informação de forma dinâmica. A configuração também poderá ser feita via Wordfence.
 
 ## Criar senhas fortes para todos os usuários.
 Muitas ameaças potenciais podem ser evitadas com bons hábitos de segurança. Uma senha forte é um aspecto muito importante disso.
@@ -46,10 +45,10 @@ O objetivo da sua senha é dificultar que outras pessoas possam adivinhar e para
 O WordPress também tem um medidor de segurança das senhas, que é exibido sempre que você está definindo ou alterando uma senha no WordPress. Use sempre essa ferramenta para garantir que está usando senhas adequadas.
 
 Quando estiver escolhendo uma senha, evite:
-- Usar pequenas alterações no seu nome real, nome de usuário, nome da sua empresa ou nome do seu site.
-- Usar apenas uma palavra do dicionário, em qualquer idioma.
-- Usar senhas curtas
-- Usar senhas que tenham somente letras ou somente números (uma combinação dos dois é o ideal).
+ - Usar pequenas alterações no seu nome real, nome de usuário, nome da sua empresa ou nome do seu site.
+ - Usar apenas uma palavra do dicionário, em qualquer idioma.
+ - Usar senhas curtas
+ - Usar senhas que tenham somente letras ou somente números (uma combinação dos dois é o ideal).
 
 Uma senha forte não serve só para proteger o seu conteúdo. Um hacker que tenha acesso à sua conta de administração terá poderes para instalar scripts maliciosos que inclusive poderão comprometer todo o servidor.
 
@@ -70,7 +69,7 @@ Por padrão, o WordPress permite que os usuários tentem fazer login quantas vez
 A configuração poderá ser feita via Wordfence.
 
 ### Habilitar autenticação 2FA
-Habilite o Segundo fator de autenticação no plugin do Wordfence.
+Habilite o [Segundo Fator de Autenticação](/faq/#o-que-e-autenticacao-de-dois-fatores-2fa) no plugin do Wordfence.
 
 ## Alterar prefixo padrão “wp” no SGBD 
 - Alterar prefixo `$table_prefixvalue` no `wp-config.php`.
@@ -81,8 +80,6 @@ Habilite o Segundo fator de autenticação no plugin do Wordfence.
 
 ## Desativar a Edição de Arquivos no Painel do WordPress
 O WordPress vem com um editor de código embutido que permite editar arquivos de temas e plugins diretamente na área de administração do WordPress. Esse recurso pode ser um risco à segurança se a conta for comprometida, razão pela qual deverá ser desativado.
-
-> imagem
 
 Para desativar a edição de arquivos basta adicionar o código a seguir no arquivo `wp-config.php`.
 

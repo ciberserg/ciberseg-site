@@ -9,6 +9,8 @@ O Microsoft OneDrive for Business é uma solução de armazenamento de arquivos 
 - Você pode optar por salvar os arquivos em uma área exclusiva sua ou em uma área para trabalhar em grupo;
 - Os arquivos armazenados na área pessoal e seus respectivos compartilhamentos são removidos quando a pessoa é desligada da instituição. Isso não ocorre com os arquivos armazenados em área de grupo.
 
+[[toc]]
+
 ## Uso aceitável
 O OneDrive é mais uma das opções que a TI ASAV disponibiliza para você armazenar seus arquivos de trabalho. Dependendo do tipo de informação que você tem no arquivo, um local pode ser mais indicado que outro:
 
@@ -26,6 +28,23 @@ O OneDrive é mais uma das opções que a TI ASAV disponibiliza para você armaz
 - Revise o item e os destinatário antes de compartilhar o arquivo. Não seria legal compartilhar algum material importante de seu trabalho com direitos de "Edição" para uma pessoa desconhecida!
 - Os arquivos colocados na pasta "Compartilhado com Todos" são compartilhado com todos. "Todos" inclui funcionários, professores e alunos.
 - Lembre-se que uma vez que o arquivo é compartilhado com outra pessoa ela pode fazer download ou compartilhar outros como o mesmo nível de permissão que ela tem.
+
+### Compartilhamento com pessoas externas
+É possível compartilhar arquivos para colaboração com pessoas externas. Para as Unidades mantidas pela ASAV, esse acesso apenas é permitido de modo não anômimo. Essa restrição é importante para que apenas as pessoas desejadas tenham acesso ao arquivo e para que as permissões de acesso possam ser revogadas quando necessário.
+
+Antes de compartilhar qualquer arquivo com pessoas externas, leia com atençao todo esse documento e adote os cuidados sugeridos.
+
+O compartilhamento com externos é realizado no mesmo local que os outros métodos de compartilhamento, seguindo estes passos:
+  - Acesse seu OneDrive pelo navegador de internet;
+  - Clique no botão de [Compartilhar] na pasta ou arquivo desejado;
+  - Ajuste as configurações conforme a figura a seguir. (1) e (2)
+  - Informe o endereço de e-mail do destinatário (3)
+  - Clique em [Enviar] (4)
+
+![](/img/compartilhamento_externo.png)
+
+ - O destinarário irá receber um e-mail informando o compartilhamento;
+ - Quando ele tentar acessar um código de segurança será enviado para o e-mail e o acesso permitido.
 
 ### Revise seus compartilhamentos com frequência
 
@@ -53,3 +72,19 @@ Sincronize apenas com computadores seguros
 ### Cuidado com redes públicas
 - Redobre sua atenção ao utilizar redes públicas como: aeroportos, praças e lan houses;
 - Evite acessar sites que armazenem informações importantes suas e colocar seu usuário e senha em formulários de autenticação.
+
+## Backup de arquivos
+Você pode fazer backup de suas pastas importantes (suas pastas desktop, documentos e imagens) em seu computador Windows com o backup de pastas do computador OneDrive, para que elas possam ser protegidas e disponíveis em outros dispositivos.
+
+<iframe width="560" height="315" src="https://www.microsoft.com/pt-br/videoplayer/embed/RE3bNi0?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=pt-br" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Restaurar arquivos
+
+Talvez você nunca precise restaurar o OneDrive, mas se vários arquivos forem excluídos, substituídos ou infectados pelo malware, você poderá restaurar todo o seu OneDrive para um horário anterior.
+
+ 1) Acesse o site do OneDrive.
+ 2) Na parte superior da página, selecione Configurações > Opções, em seguida, selecione Restaurar o OneDrive da navegação à esquerda.
+ 3) Na página Restaurar, selecione uma data na lista suspensa ou escolha Personalizar data e hora.
+ 4) Use o gráfico de atividades e o feed de atividade para revisar as atividades recentes que você deseja desfazer.
+
+<iframe width="560" height="315" src=" https://www.microsoft.com/pt-br/videoplayer/embed/RE3qrko?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=pt-br" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
