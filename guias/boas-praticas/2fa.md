@@ -11,9 +11,8 @@ A autenticação de dois fatores é um recurso oferecido por vários prestadores
 
 Se você usar apenas uma senha para autenticar um usuário, isso deixará um vetor inseguro para ataque. Se a senha for fraca ou se tiver sido exposta em outro lugar, será realmente o usuário entrando com o nome de usuário e a senha ou um invasor? Quando você precisar de uma segunda forma de autenticação, a segurança será aprimorada, pois esse fator adicional não será algo fácil de ser obtido ou duplicado por um invasor.
 
-Esse procedimento descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 ## Procedimento
-Esse procedimento descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
+Esse procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 
 Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço <b>(https://aka.ms/MFASetup)</b>.
 
@@ -34,17 +33,17 @@ Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração
 6. Na próxima tela irá aparecer um pequeno manual de como configurar sua conta no aplicativo <b>Microsoft Authenticator</b>, siga o manual e depois clique em <b>Avançar</b>.
 ![](/2fa-m365/img004.png)
 
-7. Na etapa 5, se você selecionou a opção <b>Receber notificações para a verificação</b>, será encaminhada uma notificação para o aplicativo que foi instalado no seu smartphone, lá você deverá aprovar a entrada.
+7. No passo 5, se você selecionou a opção <b>Receber notificações para a verificação</b>, será encaminhada uma notificação para o aplicativo que foi instalado no seu smartphone, lá você deverá aprovar a entrada.
 
 ![](/2fa-m365/img005.png)
 
 ::: tip Dica!
-Se na etapa 5 você selecionou a opção <b>Usar código de verificação</b>, você deverá ir no aplicativo que você instalou e verificar o código que foi gerado na sua conta e em seguida inserir no campo solicitado.
+Se no passo 5 você selecionou a opção <b>Usar código de verificação</b>, você deverá ir no aplicativo que você instalou e verificar o código que foi gerado na sua conta e em seguida inserir no campo solicitado.
 :::
 
 ![](/2fa-m365/img006.png)
 
-8. Na etapa 3 você deve inserir um número de telefone para caso você perca acesso ao Aplicativo.
+8. Na próxima tela você deve inserir um número de telefone para caso você perca acesso ao Aplicativo.
 
 ![](/2fa-m365/img007.png)
 
