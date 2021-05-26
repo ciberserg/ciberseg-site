@@ -34,11 +34,11 @@ Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de 
 <iframe width="560" height="315" src="https://www.microsoft.com/pt-br/videoplayer/embed/RE4G1PP?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=pt-br" title="Microsoft video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Configuração
-Esse procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
+O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço <b>(https://aka.ms/MFASetup)</b>.
+Após o 2FA ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço <b>(https://aka.ms/MFASetup)</b>.
 
 1. Acesse a sua conta do Office.
 2. Na tela onde aparece a mensagem <b>Mais informações necessárias</b> clique em <b>Avançar</b>.
@@ -102,7 +102,7 @@ Caso você receba no seu dispositivo móvel uma notificação para aprovar a ent
 
 ![](/img/2mfa2.jpeg)
 
-::: tip Dica!
+::: tip Importante!
 Troque a sua senha em caso de recebimento da notificação no seu aplicativo de autenticação e não foi você que solicitou.
 :::
 
