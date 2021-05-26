@@ -16,7 +16,7 @@ Se você usar apenas uma senha para autenticar um usuário, isso deixará um vet
 ## Configuração
 Esse procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço <b>(https://aka.ms/MFASetup)</b>.
 
