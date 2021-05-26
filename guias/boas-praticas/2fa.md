@@ -15,7 +15,7 @@ Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração
 
 ![](/2fa-m365/img002.png)
 
-4. Para configurar o Duplo fator de Segurança com Aplicativo móvel, você deverá instalar o Microsoft Authenticato no seu Smartphone. 
+4. Para configurar o Duplo fator de Segurança com Aplicativo móvel, você deverá instalar o Microsoft Authenticator no seu Smartphone. 
 5. Selecione uma das opções apresentadas e clique em Configurar
 
 ![](/2fa-m365/img003.png)
