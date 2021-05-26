@@ -102,7 +102,7 @@ Caso você receba no seu dispositivo móvel uma notificação para aprovar a ent
 
 ![](/img/2mfa2.jpeg)
 
-::: Dica!
+::: tip Dica!
 Troque a sua senha em caso de recebimento da notificação no seu aplicativo de autenticação e não foi você que solicitou.
 :::
 
