@@ -13,6 +13,26 @@ A autenticação de dois fatores é um recurso oferecido por vários prestadores
 
 Se você usar apenas uma senha para autenticar um usuário, isso deixará um vetor inseguro para ataque. Se a senha for fraca ou se tiver sido exposta em outro lugar, será realmente o usuário entrando com o nome de usuário e a senha ou um invasor? Quando você precisar de uma segunda forma de autenticação, a segurança será aprimorada, pois esse fator adicional não será algo fácil de ser obtido ou duplicado por um invasor.
 
+Um fator de autenticação é uma maneira de provar que você é quem diz ser ao tentar entrar. Por exemplo, uma senha é um tipo de fator, é uma coisa que você sabe. Os três tipos mais comuns de fatores são: 
+
+   * Algo que você sabe - como uma senha ou um PIN memorizado.
+
+   * Algo que você tem - como um smartphone ou uma chave USB segura.
+
+   * Algo que você é - como uma impressão digital ou reconhecimento facial.
+   
+<b>Como funciona?</b>
+
+Digamos que você entrará em sua conta de trabalho ou de estudante e insira seu nome de usuário e senha. Se isso for tudo o que você precisa, qualquer pessoa que conheça seu nome de usuário e senha poderá entrar como você em qualquer lugar do mundo! 
+
+Mas se você tiver o duplo fator de autenticação habilitada, as coisas ficam mais interessantes. Na primeira vez em que entrar em um dispositivo ou aplicativo, insira seu nome de usuário e senha como de costume, você será solicitado a inserir seu segundo fator para verificar sua identidade.  
+
+Se você está usando um aplicativo como segundo fator. Você abre o aplicativo em seu smartphone, ele mostra um número de seis dígitos criado dinamicamente, que é exclusivo do seu telefone, que você digita no site.
+
+Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de usuário e senha e, quando for solicitado a fornecer esse segundo fator, ficará preso! A menos que eles tenham seu smartphone, eles não têm como obter esse número de 6 dígitos para inserir. E o número de 6 dígitos no Microsoft Authenticator muda a cada 30 segundos, portanto, mesmo se eles souberem o número que você usou para entrar na semana passada, eles ainda estão bloqueados. 
+
+<iframe width="560" height="315" src="https://www.microsoft.com/pt-br/videoplayer/embed/RE4G1PP?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=pt-br" title="Microsoft video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Configuração
 Esse procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 
