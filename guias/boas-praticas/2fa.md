@@ -94,13 +94,16 @@ Se você perdeu ou teve seu dispositivo móvel roubado, execute uma das seguinte
    
 É altamente recomendável informar a perda ou o roubo ao Suporte técnico da sua organização. O Suporte técnico pode fazer as atualizações apropriadas na sua conta. Após suas configurações serem limpas, você será solicitado a registrar-se para autenticação de dois fatores na próxima vez que você entrar.
 
-<b>Alguém está tentando a minha conta</b>
+<b>Alguém está tentando acessar a minha conta</b>
 
-Caso você receba no seu dispositivo móvel uma notificação para aprovar a entrada no Office 365 e não foi você que solicitou, sempre marque a opção <b>NEGAR<b> e depois selecione a opção Relatório. Assim a equipe de segurança receberá um relatório da tentativa de fraude. 
+Caso você receba no seu dispositivo móvel uma notificação para aprovar a entrada no Office 365 e não foi você que solicitou, sempre marque a opção <b>NEGAR</b> e depois selecione a opção <b>Relatório</b>. Marcando a opção relatório a equipe de segurança receberá alerta da tentativa de fraude. 
 
+![](/img/2mfa1.jpeg)
 
-  
-Orientamos que troque a sua senha o mais rápido possivel em caso do recebimento dessa notificação.
+![](/img/2mfa2.jpeg)
 
+::: Dica!
+Troque a sua senha em caso de recebimento da notificação no seu aplicativo de autenticação e não foi você que solicitou.
+:::
 
 
