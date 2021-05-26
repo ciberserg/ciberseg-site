@@ -4,6 +4,7 @@
 Hoje em dia as pessoas estão se conectando a recursos organizacionais em cenários cada vez mais complexos. Elas se conectam por dispositivos corporativos, pessoais e públicos dentro e fora da rede corporativa usando smartphones, tablets, PCs e laptops, geralmente em várias plataformas. Nesse mundo sempre conectado, de vários dispositivos e plataformas, a segurança das contas de usuário é mais importante do que nunca. As senhas usadas em dispositivos, redes e plataformas, não importa o quanto sejam complexas, são insuficientes para garantir a segurança das contas dos usuários, especialmente quando eles reutilizam senhas entre contas. Um phishing sofisticado e outros ataques de engenharia social podem resultar na publicação e venda de nomes de usuário e senhas na dark web.
 
 ![](/img/auth2-compressor.png)
+<i>Fonte: Kaspersky</i>
 
 <b>O que é autenticação de dois fatores?</b>
 
@@ -11,8 +12,10 @@ A autenticação de dois fatores é um recurso oferecido por vários prestadores
 
 Se você usar apenas uma senha para autenticar um usuário, isso deixará um vetor inseguro para ataque. Se a senha for fraca ou se tiver sido exposta em outro lugar, será realmente o usuário entrando com o nome de usuário e a senha ou um invasor? Quando você precisar de uma segunda forma de autenticação, a segurança será aprimorada, pois esse fator adicional não será algo fácil de ser obtido ou duplicado por um invasor.
 
-## Procedimento
+## Configuração
 Esse procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Após o 2FA ser habilidade em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço <b>(https://aka.ms/MFASetup)</b>.
 
@@ -51,7 +54,28 @@ Se no passo 5 você selecionou a opção <b>Usar código de verificação</b>, v
 
 ![](/2fa-m365/img008.png)
 
-	
-Mais detalhes podem ser encontrados aqui [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
+Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
+
+ ## Em caso de problemas
+ 
+Há alguns problemas comuns com a verificação de dois fatores que parecem ocorrer com mais frequência do que gostaríamos. Listamos abaixo algumas soluções para os problemas que podem ocorrer:
+ 
+<b>Eu não tenho meu dispositivo móvel comigo</b>
+
+Isso acontece. Você deixou seu dispositivo móvel em casa e agora não pode usar o telefone para fazer a verificação. Entre em contato com o suporte da TI para obter ajuda.
+
+<b>Meu dispositivo foi perdido ou roubado</b>
+
+Se você perdeu ou teve seu dispositivo móvel roubado, execute uma das seguintes ações:
+
+   * Entre usando um método diferente.
+   * Entre em contato com o suporte da TI para obter ajuda e peça para limpar as suas configurações.
+   
+É altamente recomendável informar a perda ou o roubo ao Suporte técnico da sua organização. O Suporte técnico pode fazer as atualizações apropriadas na sua conta. Após suas configurações serem limpas, você será solicitado a registrar-se para autenticação de dois fatores na próxima vez que você entrar.
+
+
+
+
+
 
 
