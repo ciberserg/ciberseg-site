@@ -8,7 +8,7 @@ Hoje em dia as pessoas estão se conectando a recursos organizacionais em cenár
 
 <i>Fonte: Kaspersky</i>
 
-<b>O que é autenticação de dois fatores?</b>
+### O que é autenticação de dois fatores?
 
 A autenticação de dois fatores é um recurso oferecido por vários prestadores de serviços online que acrescentam uma camada adicional de segurança para o processo de login da conta, exigindo que o usuário forneça duas formas de autenticação.
 
@@ -22,7 +22,7 @@ Um fator de autenticação é uma maneira de provar que você é quem diz ser ao
 
    * Algo que você é - como uma impressão digital ou reconhecimento facial.
    
-<b>Como funciona?</b>
+### Como funciona?
 
 Digamos que você entrará em sua conta de trabalho ou de estudante e insira seu nome de usuário e senha. Se isso for tudo o que você precisa, qualquer pessoa que conheça seu nome de usuário e senha poderá entrar como você em qualquer lugar do mundo! 
 
@@ -82,11 +82,11 @@ Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azur
  
 Há alguns problemas comuns com a verificação de dois fatores que parecem ocorrer com mais frequência do que gostaríamos. Listamos abaixo algumas soluções para os problemas que podem ocorrer:
  
-<b>Eu não tenho meu dispositivo móvel comigo</b>
+### Eu não tenho meu dispositivo móvel comigo
 
 Isso acontece. Você deixou seu dispositivo móvel em casa e agora não pode usar o telefone para fazer a verificação. Entre em contato com o suporte da TI para obter ajuda.
 
-<b>Meu dispositivo foi perdido ou roubado</b>
+### Meu dispositivo foi perdido ou roubado
 
 Se você perdeu ou teve seu dispositivo móvel roubado, execute uma das seguintes ações:
 
