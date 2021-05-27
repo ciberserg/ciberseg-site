@@ -39,6 +39,7 @@ Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de 
 <iframe width="560" height="315" src="https://www.microsoft.com/pt-br/videoplayer/embed/RE4G1PP?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=pt-br" title="Microsoft video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Fonte Microsoft*
+
 ## Configuração
 O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
 
