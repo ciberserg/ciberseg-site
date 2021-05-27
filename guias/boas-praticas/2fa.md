@@ -4,11 +4,11 @@ Hoje em dia as pessoas estão se conectando a recursos organizacionais em cenár
 
 *Fonte Microsoft*
 
+[[toc]]
+
 ![](/img/auth2-compressor.png)
 
 *Fonte: Kaspersky*
-
-[[toc]]
 
 ## O que é autenticação de dois fatores?
 
