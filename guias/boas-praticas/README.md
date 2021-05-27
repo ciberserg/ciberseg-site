@@ -1,6 +1,6 @@
 # Boas Práticas
 
-Confira uma lista de boas práticas para proteção dos das informações corporativas e pessoais.
+Confira uma lista de boas práticas para proteção das informações corporativas e pessoais.
 
  - [Senhas](senhas)
  - [E-Mail](email)
