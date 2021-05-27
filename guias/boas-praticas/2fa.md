@@ -1,7 +1,7 @@
 # Duplo Fator de Autenticação (2FA)
 
 Hoje em dia as pessoas estão se conectando a recursos organizacionais em cenários cada vez mais complexos. Elas se conectam por dispositivos corporativos, pessoais e públicos dentro e fora da rede corporativa usando smartphones, tablets, PCs e laptops, geralmente em várias plataformas. Nesse mundo sempre conectado, de vários dispositivos e plataformas, a segurança das contas de usuário é mais importante do que nunca. As senhas usadas em dispositivos, redes e plataformas, não importa o quanto sejam complexas, são insuficientes para garantir a segurança das contas dos usuários, especialmente quando eles reutilizam senhas entre contas. Um phishing sofisticado e outros ataques de engenharia social podem resultar na publicação e venda de nomes de usuário e senhas na dark web.
-
+*Fonte Microsoft*
 ![](/img/auth2-compressor.png)
 
 *Fonte: Kaspersky*
@@ -10,7 +10,8 @@ Hoje em dia as pessoas estão se conectando a recursos organizacionais em cenár
 
 ## O que é autenticação de dois fatores?
 
-A autenticação de dois fatores é um recurso oferecido por vários prestadores de serviços online que acrescentam uma camada adicional de segurança para o processo de login da conta, exigindo que o usuário forneça duas formas de autenticação.*Fonte Kaspesky*
+A autenticação de dois fatores é um recurso oferecido por vários prestadores de serviços online que acrescentam uma camada adicional de segurança para o processo de login da conta, exigindo que o usuário forneça duas formas de autenticação.
+*Fonte Kaspesky*
 
 Se você usar apenas uma senha para autenticar um usuário, isso deixará um vetor inseguro para ataque. Se a senha for fraca ou se tiver sido exposta em outro lugar, será realmente o usuário entrando com o nome de usuário e a senha ou um invasor? Quando você precisar de uma segunda forma de autenticação, a segurança será aprimorada, pois esse fator adicional não será algo fácil de ser obtido ou duplicado por um invasor.
 
@@ -21,7 +22,7 @@ Um fator de autenticação é uma maneira de provar que você é quem diz ser ao
    * Algo que você tem - como um smartphone ou uma chave USB segura.
 
    * Algo que você é - como uma impressão digital ou reconhecimento facial.
-   *Fonte Microsoft*
+*Fonte Microsoft*
 ### Como funciona?
 
 Digamos que você entrará em sua conta de trabalho ou de estudante e insira seu nome de usuário e senha. Se isso for tudo o que você precisa, qualquer pessoa que conheça seu nome de usuário e senha poderá entrar como você em qualquer lugar do mundo! 
