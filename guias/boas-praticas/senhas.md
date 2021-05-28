@@ -58,6 +58,8 @@ Seguem abaixo 8 dicas para criação de senhas robustas para seus logins.
 * Não utilize dados pessoais nas senhas, como por exemplo, celular, datas, CPF.
 :::
 
+![](/img/senhas1.png)  
+
 *Fonte: Kaspersky*
 
 ## Cofres de Senha
