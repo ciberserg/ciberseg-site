@@ -32,6 +32,7 @@
   padding: 20px;
   width: 200px;
   height: 300px;
+  flex: 1;
 }
 
 .card > img {
@@ -40,6 +41,10 @@
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+
+.card h4 {
+  text-align:center;
 }
 
 /* On mouse-over, add a deeper shadow */

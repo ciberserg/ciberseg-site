@@ -43,7 +43,7 @@ module.exports = {
         items: [
           {text: 'Boas práticas', link: '/guias/boas-praticas/' },
           {text: 'Configuração segura', link: '/guias/configuracao-segura/' },
-          {text: 'Gestão de acessos', link: '/guias/gestao-acessos/' },
+          //{text: 'Gestão de acessos', link: '/guias/gestao-acessos/' },
         ]
       },
       {

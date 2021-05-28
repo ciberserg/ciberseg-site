@@ -1,7 +1,11 @@
 # Boas Práticas
 
-![](/img/secconfig.jpg)
+Confira uma lista de boas práticas para proteção das informações corporativas e pessoais.
 
-- [Senhas](senhas)
-- [OneDrive](onedrive)
-- [Video Conferências](videoconf)
+ - [Senhas](senhas)
+ - [E-Mail](email)
+ - [Video Conferência](videoconf)
+ - [OneDrive](onedrive)
+ - [Direitos da imagem, nome e voz](direito-da-personalidade)
+ - [Duplo fator de autenticação](2fa)
+ - [WhatsApp](whatsapp)
