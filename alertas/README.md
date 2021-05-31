@@ -9,6 +9,13 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+##  VMWare - Execução remota de código (CVE-2021-21985)
+*Data: 25/05/2021*
+
+O Client vSphere(HTML5) contém uma vulnerabilidade de execução remota de código devido à falta de validação de entrada no plug-in do Virtual SAN Health Check que é habilitado por padrão no vCenter Server. Um usuário malicioso com acesso de rede à porta 443 pode explorar essa vulnerabilidade para executar comandos com privilégios administrativos no sistema operacional que hospeda o vCenter Server.
+
+[Maiores informações...](https://arstechnica.com/gadgets/2021/05/vulnerability-in-vmware-product-has-severity-rating-of-9-8-out-of-10/)
+
 ## Vulnerabilidade crítica no CORE CMS Drupal 
 *Data: 22/04/2021*
 
