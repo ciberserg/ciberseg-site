@@ -29,13 +29,38 @@ Novos golpes surgem todo dia para o WhatsApp. Sendo uma das ferramentas mais uti
 
 ![](/img/ios.png)
 
-### Privacidade das informações
+### Privacidade das Informações
+Por padrão, o WhatsApp define suas configurações de privacidade para permitir que:
 
-#### Last seen
+ * Todos os usuários do WhatsApp vejam suas confirmações de leitura, seu visto por último, seu recado e sua foto do perfil.
 
-#### Profile Photo
+ * Seus contatos vejam suas atualizações de status.
 
-#### Status
+ * Qualquer usuário adicione você a grupos.
+
+#### Mudar as configurações de privacidade
+* Siga as instruções para seu sistema operacional:
+    * Android: abra o WhatsApp e toque em Mais opções > Configurações > Conta > Privacidade.
+    * iPhone: abra o WhatsApp e toque em Configurações > Conta > Privacidade.
+    * KaiOS: abra o WhatsApp e pressione Opções > Configurações > Conta > Privacidade.
+    
+* Você pode definir quem poderá:
+    * Visualizar suas informações de visto por último.
+    * Visualizar sua foto de perfil.
+    * Visualizar seu recado.
+    * Visualizar suas atualizações de status.
+    * Visualizar suas confirmações de leitura.
+    * Adicionar você a grupos.
+
+
+::: tip Observações:
+
+* Caso você não compartilhe seu o seu horário de visto por último, não será possível visualizar o visto por último dos outros usuários.
+* Ao desativar as confirmações de leitura, você não poderá ver as confirmações de leitura dos outros usuários do WhatsApp. As confirmações de leitura sempre são exibidas nas conversas em grupo.
+* Se um contato desativou as confirmações de leitura, você não poderá ver se essa pessoa visualizou suas atualizações de status.
+* Não é possível mudar quem pode visualizar quando você está online ou digitando....
+:::
+
 
 ### Dicas Gerais
  * Não repasse nenhum código fornecido por SMS, nem qualquer outra informação sem confirmação com o setor responsável das empresas através dos canais de atendimento.

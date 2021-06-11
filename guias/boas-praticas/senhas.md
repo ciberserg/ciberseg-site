@@ -43,7 +43,7 @@ Muitas pessoas utilizam senhas simples e fáceis de lembrar. Esse comportamento 
 Nunca utilize dados pessoais nas senhas, como por exemplo, celular, datas de nacimento, CPF, etc.
 :::
 
-![](/img/senhas1.png)  
+![](/img/senhas1.png)
 
 *Fonte: Kaspersky*
 
