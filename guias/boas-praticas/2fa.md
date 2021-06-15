@@ -39,12 +39,28 @@ Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de 
 
 *Fonte Microsoft*
 
-## Configuração
-O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365.
+## Habilitar 2FA no Microsoft 365
+O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365 e Office 365.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Quem pode usar o 2FA do Microsoft 365?
+No momento os serviços estão disponíveis para usuários dos seguintes domínios:
+ * @asav.org.br
+ * @unisinos.br
 
-Após o 2FA ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço **(https://aka.ms/MFASetup)**.
+Para utilizar o serviço as pessoas destes domínios necessitam:
+ 1. Fazer parte de um grupo de adoção 2FA;
+ 2. Abrir uma solicitação de liberação 2FA no Atendimento da TI. 
+
+### Configurando o 2FA
+
+Após o 2FA ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
+
+Antes de iniciar a configuração de 2FA em sua conta, recomendamos que você instale o Microsoft Autenticador no seu telefone celular.
+
+ * [Loja Apple](https://itunes.apple.com/app/microsoft-authenticator/id983156458)
+ * [Loja Google](https://play.google.com/store/apps/details?id=com.azure.authenticator)
+
+ Após a instalação do App, siga os passos a seguir.
 
 1. Acesse a sua conta do Office.
 2. Na tela onde aparece a mensagem **Mais informações necessárias** clique em **Avançar**.
@@ -83,6 +99,8 @@ Se no passo 5 você selecionou a opção **Usar código de verificação**, voc�
 
 Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8OzabuNwHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  ## Problemas Comuns
  
 Há alguns problemas comuns com a verificação de dois fatores que parecem ocorrer com mais frequência do que gostaríamos. Listamos abaixo algumas soluções para os problemas que podem ocorrer:
@@ -112,5 +130,3 @@ Caso você receba no seu dispositivo móvel uma notificação para aprovar a ent
 ::: danger Importante!
 Troque a sua senha em caso de recebimento da notificação no seu aplicativo de autenticação e não foi você que solicitou.
 :::
-
-

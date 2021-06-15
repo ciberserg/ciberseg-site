@@ -1,10 +1,8 @@
 # Videoconferência
 
-As ferramentas de videoconferência assumiram um importante papel em nossas rotinas atuais. Entretanto questões como conveniência, usabilidade, velocidade, estabilidade, privacidade e  proteção de dado precisam ser balanceadas de modo a reduzir os riscos de nossa organização.
+As ferramentas de videoconferência assumiram um importante papel em nossas rotinas atuais. Veja algumas dicas para sua proteção, dos colaboradores e dos estudantes.
 
 ![](/img/videoconf.jpg)
-
-Veja algumas dicas para sua proteção, dos colaboradores e dos estudantes.
 
 ## Utilize apenas ferramentas aprovados
 É importante que você apenas utilize ferramentas aprovados pela organização para realizar suas videoconferências. Essas ferramentas foram avaliadas e apresentam características importantes de segurança. Lembre-se:
@@ -13,11 +11,14 @@ Veja algumas dicas para sua proteção, dos colaboradores e dos estudantes.
  1. Tenha cuidado ao abrir convites de reuniões para ferramentas não aprovados ou desconhecidas.
 
 ## Proteja sua videoconferência
-Adote cuidados apropriados ao tipo de videoconferência que você irá fazer. Lembre-se:
+Adote cuidados apropriados ao tipo de videoconferência que você irá fazer.
 
-  1. Evite compartilhar sua tela inteira. Sempre de preferências por compartilhar apenas a janela que deseja apresentar;
+  1. Evite compartilhar sua tela inteira. Sempre de preferências por compartilhar apenas a janela que deseja apresentar. No Microsoft Teams isso pode ser feito ao clicar em Compartilhar Conteúdo => Janela ou PowerPoint Live
+  
+  ![](/img/teams_share.png)
+
   1. Tenho um plano para encerrar a reunião em caso de incidente;
-  1. Sempre notifique as equipes de tecnologia em caso de incidentes;    
+  1. Sempre notifique as equipes de tecnologia ou cibersegurança em caso de incidentes;    
   1. Compartilhe os links de acesso a reunião de forma segura e diretamente para alunos e colaboradores.
 
 ## Proteja as informações dos estudantes e da organização
