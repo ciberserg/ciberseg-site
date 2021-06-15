@@ -18,11 +18,9 @@ Se você usar apenas uma senha para autenticar um usuário, isso deixará um vet
 
 Um fator de autenticação é uma maneira de provar que você é quem diz ser ao tentar entrar. Por exemplo, uma senha é um tipo de fator, é uma coisa que você sabe. Os três tipos mais comuns de fatores são: 
 
-   * Algo que você sabe - como uma senha ou um PIN memorizado.
-
-   * Algo que você tem - como um smartphone ou uma chave USB segura.
-
-   * Algo que você é - como uma impressão digital ou reconhecimento facial.
+ * Algo que você sabe - como uma senha ou um PIN memorizado.
+ * Algo que você tem - como um smartphone ou uma chave USB segura.
+ * Algo que você é - como uma impressão digital ou reconhecimento facial.
    
 *Fonte Microsoft*
 ### Como funciona?
@@ -130,5 +128,3 @@ Caso você receba no seu dispositivo móvel uma notificação para aprovar a ent
 ::: danger Importante!
 Caso receba a notificação para autorizar a entrada e não foi você quem solicitou, troque a sua senha imediatamente.
 :::
-
-
