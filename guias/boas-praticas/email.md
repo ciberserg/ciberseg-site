@@ -7,11 +7,9 @@ O e-mail é uma ferramenta de trabalho que facilita nossa comunicação no dia a
 ## O que é correio eletrônico?
 O correio eletrônico institucional permite compor, enviar, receber e armazenar mensagens entre colaboradores e/ou terceiros no exercício das suas atividades profissionais. A caixa postal é o espaço de armazenamento digital para as mensagens e arquivos que circulam pelo correio eletrônico
 
-Cada colaborador tem seu próprio endereço eletrônico (ex.: avieira@asav.org.br), que é pessoal e intransferível. Além das contas individuais, é possível que colaboradores tenham acesso a contas compartilhadas, cuja decisão de compartilhamento é do gestor.
+Cada colaborador tem seu próprio endereço eletrônico (ex.: joao.santos@jesuitasbrasil.org.br), que é pessoal e intransferível. Além das contas individuais, é possível que colaboradores tenham acesso a contas compartilhadas, cuja decisão de compartilhamento é do gestor.
 
 Todas as comunicações de correio eletrônico em nome da instituição devem ser feitas através do e-mail institucional. É proibido o uso de outra conta que não aquela fornecida pela instituição e, também, o redirecionamento automático de mensagens institucionais para contas de correio letrônico externas.
-
-O uso do e-mail institucional pelos colaboradores da Associação Antônio Vieira (ASAV) é orientada e regulada pela Política de Uso do Correio Eletrônico (veja mais em www.asav.org.br/psi).
 
 ## Quando usar e-mail?
 

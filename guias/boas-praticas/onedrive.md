@@ -12,7 +12,7 @@ O Microsoft OneDrive for Business é uma solução de armazenamento de arquivos 
 [[toc]]
 
 ## Uso aceitável
-O OneDrive é mais uma das opções que a TI ASAV disponibiliza para você armazenar seus arquivos de trabalho. Dependendo do tipo de informação que você tem no arquivo, um local pode ser mais indicado que outro:
+O OneDrive é mais uma das opções que a TI Corporativa disponibiliza para você armazenar seus arquivos de trabalho. Dependendo do tipo de informação que você tem no arquivo, um local pode ser mais indicado que outro:
 
 - Informações sabidamente confidencias ou protegidas por leis específicas NÃO devem ser armazenadas no OneDrive, por exemplo:
 - Arquivos que contenham dados cadastrais de alunos e empregados como: CPF, Endereço, RG, endereço, salários, renda, etc.;
@@ -30,7 +30,7 @@ O OneDrive é mais uma das opções que a TI ASAV disponibiliza para você armaz
 - Lembre-se que uma vez que o arquivo é compartilhado com outra pessoa ela pode fazer download ou compartilhar outros como o mesmo nível de permissão que ela tem.
 
 ### Compartilhamento com pessoas externas
-É possível compartilhar arquivos para colaboração com pessoas externas. Para as Unidades mantidas pela ASAV, esse acesso apenas é permitido de modo não anômimo. Essa restrição é importante para que apenas as pessoas desejadas tenham acesso ao arquivo e para que as permissões de acesso possam ser revogadas quando necessário.
+É possível compartilhar arquivos para colaboração com pessoas externas. Para algumas Unidades esse acesso apenas é permitido de modo não anômimo. Essa restrição é importante para que apenas as pessoas desejadas tenham acesso ao arquivo e para que as permissões de acesso possam ser revogadas quando necessário.
 
 Antes de compartilhar qualquer arquivo com pessoas externas, leia com atençao todo esse documento e adote os cuidados sugeridos.
 

@@ -27,7 +27,7 @@ tagline:
     </ciber-card>
         <ciber-card
         title="Alertas"
-        subtitle="Reunimos aqui os principais alertas tecnológicos de segurança para auxiliar as equipes de TI dos Jesúitas Brasil."
+        subtitle="Reunimos aqui os principais alertas tecnológicos de segurança para auxiliar as equipes de TI dos Jesuítas Brasil."
         img="alerta.svg"
         to="/alertas/">
     </ciber-card>

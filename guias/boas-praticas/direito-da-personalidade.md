@@ -12,7 +12,7 @@ A personalidade é o conjunto de características da pessoa, são direitos que e
 
 A regra geral determina que sempre que a imagem, o nome e a voz de uma pessoa forem captados e/ou divulgados há que se obter a autorização para tanto ou realizar aviso prévio de que o ambiente será fotografado e/ou filmado. Pensando nesse contexto, as Unidades devem tomar todos os cuidados necessários para obter a(s) autorização(ões) necessárias com alunos, responsáveis legais, colaboradores para prever tanto a captação da imagem como de sua divulgação ou publicação.
 
-Os contratos de matrícula devem possuir autorização para o uso de imagem, som e voz de aluno para finalidade institucional e para realização de atividades escolares, deve-se observar os direitos daqueles que tiverem sua imagem veiculada, principalmente quando as aulas ocorrerem em ambiente virtual.
+Os contratos de prestação de serviço devem possuir autorização para o uso de imagem, som e voz de aluno para finalidade institucional e para realização de atividades escolares, deve-se observar os direitos daqueles que tiverem sua imagem veiculada, principalmente quando as aulas ocorrerem em ambiente virtual.
 
 Recomenda-se a utilização apenas dos canais oficiais da Unidade para divulgação de alguma atividade escolar que veicule a imagem, nome ou som da voz dos alunos, jamais em canais não oficiais ou mídias sociais particulares, de forma a evitar a exposição abusiva da imagem dos alunos, podendo acarretar em utilização da imagem de forma diversa da finalidade para qual foi captada, prática proibida pelo artigo 20 do Código Civil e também desconforme com o princípio da finalidade da Lei Geral de Proteção de Dados (Lei nº 13.709/2018).
 
@@ -20,7 +20,7 @@ Nenhum membro da comunidade escolar, sobretudo os alunos, devem ser expostos a s
 
 Para reforçar a orientação, os professores podem fazê-lo antes do início das aulas ou incluir um aviso  em suas apresentações e/ou materiais de aula, informando sobre a vedação de captação em vídeo e fotografia das aulas com especial vedação da captação da imagem do professor e dos demais colegas de sala, sobretudo veiculação em ambientes virtuais, sejam eles próprios da Unidade ou não.
 
-Há que se observar, quando permitido o uso da imagem, o contexto com o qual a imagem será associada, não devendo ser utilizadas imagens de pessoas em situações constrangedoras ou vexatórias, especialmente se houver destaque de partes do corpo ou mesmo algum nível de nudez, mesmo que parcial (roupa íntima ou trajes de banho), pois qualquer ato praticado que afete a honra do ofendido, seja ele aluno, responsável legal ou outro colaborador da ASAV, poderá ensejar no dever de indenizar.
+Há que se observar, quando permitido o uso da imagem, o contexto com o qual a imagem será associada, não devendo ser utilizadas imagens de pessoas em situações constrangedoras ou vexatórias, especialmente se houver destaque de partes do corpo ou mesmo algum nível de nudez, mesmo que parcial (roupa íntima ou trajes de banho), pois qualquer ato praticado que afete a honra do ofendido, seja ele aluno, responsável legal ou outro colaborador dos Jesuítas Brasil, poderá ensejar no dever de indenizar.
 
 ::: warning Importante!
 Destacamos a importância de verificar, com frequência, durante as aulas em ambiente virtual, se o aluno está com a câmera ligada e se não está em alguma situação desconfortável, que possa acarretar prejuízo à sua imagem, honra e, consequentemente, prejudicar a imagem da Unidade perante os responsáveis legais.
