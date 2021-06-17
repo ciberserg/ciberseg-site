@@ -18,8 +18,7 @@ A Equipe de Cibersegurança BRA é reponsável por auxiliar na prevenção, dete
 
 <ciberseg@asav.org.br>
 
-<https://ciberseg.asav.org.br>
-
+<https://ciberseg.jesuitasbrasil.org.br>
 
 INOC-DBA: 19611*800
 
