@@ -69,7 +69,7 @@ Neste momento você não conseguirá ainda configurar o aplicativo. Ele só fica
 
 ![](/2fa-m365/img001.png)
 
-3. Na tela **Verificação de Segurança adicional => Etapa 01: Como devemos entrar em contato com você recomendamos o uso da opção Aplicativo Móvel**.
+3. Na tela **Verificação de Segurança adicional => Etapa 01: Como devemos entrar em contato com você** recomendamos o uso da opção **Aplicativo Móvel**.
 
 ![](/2fa-m365/img002.png)
 
