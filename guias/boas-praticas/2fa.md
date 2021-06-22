@@ -64,7 +64,7 @@ Neste momento você não conseguirá ainda configurar o aplicativo. Ele só fica
 
  Para configurar a conta Office, siga os passos abaixo.
 
-1. Acesse a sua conta do Office a partir de um navegador ([office.com](https://office.com)). Se você estiver logado na conta, saia e efetue um novo logon.
+1. Acesse a sua conta do Office a partir de um navegador ([Office.com](https://office.com)). Se você estiver logado na conta, saia e efetue um novo logon.
 2. Na tela onde aparece a mensagem **Mais informações necessárias** clique em **Avançar**.
 
 ![](/2fa-m365/img001.png)
