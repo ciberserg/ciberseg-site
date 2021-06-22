@@ -37,30 +37,34 @@ Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de 
 
 *Fonte Microsoft*
 
-## Habilitar 2FA no Microsoft 365
+## Habilitar Duplo Fator de Auntenticação (2FA) no Microsoft 365
 O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365 e Office 365.
 
-### Quem pode usar o 2FA do Microsoft 365?
+Assim que configurado, o segundo fator de autenticação será solicitado em todos os dispositivos nos quais a pessoa costuma acessar a conta: no notebook, desktop, smartphone ou tablet.
+
+### Quem pode usar o Duplo Fator de Autenticação (2FA) do Microsoft 365?
 No momento os serviços estão disponíveis para usuários dos seguintes domínios:
  * @asav.org.br
  * @unisinos.br
 
 Para utilizar o serviço as pessoas destes domínios necessitam:
- 1. Fazer parte de um grupo de adoção 2FA;
- 2. Abrir uma solicitação de liberação 2FA no Atendimento da TI. 
+ 1. Fazer parte de um grupo de adoção do Duplo Fator de Autenticação (2FA);
+ 2. Abrir uma solicitação de liberação do Duplo Fator de Autenticação (2FA) no portal da TI corporativa [https://ti.asav.org.br/](https://ti.asav.org.br/), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. 
 
 ### Configurando o 2FA
 
-Após o 2FA ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
+Após o Duplo Fator de Autenticação (2FA) ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
 
-Antes de iniciar a configuração de 2FA em sua conta, recomendamos que você instale o Microsoft Autenticador no seu telefone celular.
+Caso você opte por utilizar o segundo fator de autenticação no seu smartphone (recomendado), antes de iniciar a configuração de 2FA em sua conta você já pode instalar o Microsoft Autenticador no seu smartphone (caso você ainda não utilize este recurso).
 
  * [Loja Apple](https://itunes.apple.com/app/microsoft-authenticator/id983156458)
  * [Loja Google](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
- Após a instalação do App, siga os passos a seguir.
+Neste momento você não conseguirá ainda configurar o aplicativo. Ele só ficará disponível para uso no decorrer da configuração.
 
-1. Acesse a sua conta do Office.
+ Para configurar a conta Office, siga os passos abaixo.
+
+1. Acesse a sua conta do Office a partir de um navegador ([office.com](https://office.com)). Se você estiver logado na conta, saia e efetue um novo logon.
 2. Na tela onde aparece a mensagem **Mais informações necessárias** clique em **Avançar**.
 
 ![](/2fa-m365/img001.png)
@@ -69,15 +73,15 @@ Antes de iniciar a configuração de 2FA em sua conta, recomendamos que você in
 
 ![](/2fa-m365/img002.png)
 
-4. Para configurar o Duplo fator de Autenticação com Aplicativo móvel, você deverá instalar o **Microsoft Authenticator** no seu Smartphone. 
+4. Para configurar o Duplo fator de Autenticação com Aplicativo móvel, acesse o **Microsoft Authenticator** previamente instalado no seu Smartphone. 
 5. Selecione uma das opções apresentadas e clique em **Configurar**.
 
 ![](/2fa-m365/img003.png)
 
-6. Na próxima tela irá aparecer um pequeno manual de como configurar sua conta no aplicativo **Microsoft Authenticator**, siga o manual e depois clique em **Avançar**.
+6. Na próxima tela serão apresentadas as instruções sobre como configurar sua conta no aplicativo **Microsoft Authenticator**. Siga os passos e depois clique em **Avançar**.
 ![](/2fa-m365/img004.png)
 
-7. No passo 5, se você selecionou a opção **Receber notificações para a verificação**, será encaminhada uma notificação para o aplicativo que foi instalado no seu smartphone, lá você deverá aprovar a entrada.
+7. Caso você tenha selecionado **Receber notificações para a verificação** (passo 5), será encaminhada uma notificação para o aplicativo que foi instalado no seu smartphone. Você deverá aprovar a entrada. Dependendo do dispositivo utilizado, a entrada poderá ser aprovada pelo uso de sua senha ou de biometria (depende da confifuração de seu smartphone).
 
 ![](/2fa-m365/img005.png)
 
