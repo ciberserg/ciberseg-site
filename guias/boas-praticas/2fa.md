@@ -51,7 +51,7 @@ Para utilizar o serviço as pessoas destes domínios necessitam:
  1. Fazer parte de um grupo de adoção do Duplo Fator de Autenticação (2FA);
  2. Abrir uma solicitação de liberação do Duplo Fator de Autenticação (2FA) no portal da TI corporativa [https://ti.asav.org.br/](https://ti.asav.org.br/), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. 
 
-### Configurando o 2FA
+### Configurando o Duplo Fator de Autenticação (2FA)
 
 Após o Duplo Fator de Autenticação (2FA) ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
 
