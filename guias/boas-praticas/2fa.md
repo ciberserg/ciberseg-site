@@ -38,7 +38,7 @@ Se outra pessoa tentar entrar como você, no entanto, ela inserirá seu nome de 
 *Fonte Microsoft*
 
 ## Habilitar Duplo Fator de Auntenticação (2FA) no Microsoft 365
-O procedimento a seguir descreve as ações necessárias para configurar o Duplo Fator de Autenticação (2FA) nas contas de usuários do Microsoft 365 e Office 365.
+O procedimento a seguir descreve as ações necessárias para configurar o duplo fator de autenticação (2FA) nas contas de usuários do Microsoft 365 e Office 365.
 
 Assim que configurado, o segundo fator de autenticação será solicitado em todos os dispositivos nos quais a pessoa costuma acessar a conta: no notebook, desktop, smartphone ou tablet.
 
@@ -48,14 +48,14 @@ No momento os serviços estão disponíveis para usuários dos seguintes domíni
  * @unisinos.br
 
 Para utilizar o serviço as pessoas destes domínios necessitam:
- 1. Fazer parte de um grupo de adoção do Duplo Fator de Autenticação (2FA);
- 2. Abrir uma solicitação de liberação do Duplo Fator de Autenticação (2FA) no portal da TI corporativa [https://ti.asav.org.br/](https://ti.asav.org.br/), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. 
+ 1. Fazer parte de um grupo de adoção do duplo fator de autenticação (2FA);
+ 2. Abrir uma solicitação de liberação do duplo fator de autenticação (2FA) no portal da TI corporativa [https://ti.asav.org.br/](https://ti.asav.org.br/), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. 
 
 ### Configurando o Duplo Fator de Autenticação (2FA)
 
-Após o Duplo Fator de Autenticação (2FA) ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
+Após o duplo fator de autenticação (2FA) ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft Office 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
 
-Caso você opte por utilizar o segundo fator de autenticação no seu smartphone (recomendado), antes de iniciar a configuração de 2FA em sua conta você já pode instalar o Microsoft Autenticador no seu smartphone (caso você ainda não utilize este recurso).
+Caso você opte por utilizar o segundo fator de autenticação no seu smartphone (recomendado), antes de iniciar a configuração em sua conta você já pode instalar o Microsoft Autenticador no seu smartphone (caso você ainda não utilize este recurso).
 
  * [Loja Apple](https://itunes.apple.com/app/microsoft-authenticator/id983156458)
  * [Loja Google](https://play.google.com/store/apps/details?id=com.azure.authenticator)
@@ -73,7 +73,7 @@ Neste momento você não conseguirá ainda configurar o aplicativo. Ele só fica
 
 ![](/2fa-m365/img002.png)
 
-4. Para configurar o Duplo fator de Autenticação com Aplicativo móvel, acesse o **Microsoft Authenticator** previamente instalado no seu Smartphone. 
+4. Para configurar o duplo fator de autenticação com Aplicativo móvel, acesse o **Microsoft Authenticator** previamente instalado no seu smartphone. 
 5. Selecione uma das opções apresentadas e clique em **Configurar**.
 
 ![](/2fa-m365/img003.png)
