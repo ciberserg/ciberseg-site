@@ -32,4 +32,73 @@ A Agência Nacional de Crime dos Estados Unidos reúne algumas dicas para quem s
 
 A Agência solicita ainda que seja cortado qualquer contato com o criminoso, e pede para tirar print de toda a conversa prévia. O pagamento solicitado também não deve ser feito e é recomendado que o usuário preserve o máximo de evidências possíveis, como endereço do perfil no Facebook, conta do Skype, endereço de e-mail.
 
+## Quais os limites do Microsoft Teams?
+### Equipes e canais
+|Recurso | Limite máximo|
+--- | ---
+|Número de equipes das quais um usuário pode ser membro|1.000|
+|Número de membros em uma equipe|25.000|
+|Número de proprietários por equipe|100|
+|Número de canais por equipe|200|
+|Número de canais privados por equipe|30|
+|Números de membros em um canal privado|250|
 
+### Reuniões e chamadas
+|Recurso | Limite máximo|
+--- | ---
+|Número de pessoas em uma reunião (podem conversar e telefonar)|1.000|
+|O número de pessoas em uma chamada de áudio ou vídeo do chat|20|
+|As equipes mantêm gravações de reunião que não são carregadas no Microsoft Stream, disponíveis para download local|20 dias|
+|Número de proprietários por equipe|100|
+
+### Eventos Ao vivo do Teams
+|Recurso | Limite máximo|
+--- | ---
+|Tamanho da audiência|10.000|
+|Duração do evento|4 horas|
+|Eventos simultâneos Ao vivo em execução em uma organização Microsoft 365 ou Office 365|15|
+
+*Atualizado em 24 de junho de 2021*
+
+## Quais os limites de mensagens e destinatários Exchange Online?
+### Limites de armazenamento
+|Recurso | Limite máximo|
+--- | ---
+|Caixas de correio de usuário|50 GB (A1) e 100GB (A3)|
+|Caixas de correio compartilhadas|50 GB (A1) e 100GB (A3)|
+|Caixas de correio de grupo|50 GB|
+
+### Limites da pasta da caixa de correio
+|Recurso | Limite máximo|
+--- | ---
+|Número máximo de mensagens por pasta de caixa de correio| 1 milhão|
+|Número máximo de subpastas por pasta de caixa de correio| 10.000|
+
+### Limites de mensagem
+|Recurso | Limite máximo|
+--- | ---
+|Limite de tamanho de mensagem - Outlook| 100 MB|
+|Limite de tamanho de mensagem - Outlook para iOS e Android|33MB|
+|Limite de tamanho para mensagens criptografadas|25MB|
+|Limite de comprimento de assunto|255 caracteres|
+|Limite de anexos de arquivo|250 anexos|
+
+### Receber e enviar limites
+|Recurso | Limite máximo|
+--- | ---
+|Mensagens recebidas|3.600 mensagens por hora|
+|Limite de taxa de destinatário|10.000 destinatários por dia|
+|Limite de taxa de mensagem|30 mensagens por minuto|
+|Limite de destinatário|Personalizável para até 1000 destinatários|
+
+*Atualizado em 24 de junho de 2021*
+
+## Quais os limites do OneDrive?
+### Limites de armazenamento
+|Recurso | Limite|
+--- | ---
+|Caixas de correio compartilhadas|~ "# % & *: < >? / \ { | }.|
+|Esses nomes não são permitidos para arquivos ou pastas|.lock, CON, PRN, AUX, NUL, COM0- COM9 , LPT0 - LPT9, _vti_, desktop.ini, qualquer nome de arquivo começando com ~$.|
+|Tamaho máximo do arquivo|250 MB|
+
+*Atualizado em 24 de junho de 2021*
