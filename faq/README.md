@@ -4,6 +4,8 @@ sidebar: auto
 
 # FAQs
 
+[[toc]]
+
 ## O que é autenticação de dois fatores (2FA)?
 A autenticação de dois fatores (2FA) é um recurso que acrescenta uma camada adicional de segurança para o processo de login, solicitando que o usuário informe uma segunda forma de autenticação. A primeira forma em geral é a sua senha. O segundo fator pode ser qualquer coisa, dependendo do serviço. O mais comum dos casos, é um SMS ou um código que é enviado para um e-mail. A teoria geral por trás de dois fatores é que para efetuar login, você deve saber e possuir algo a mais.
 
