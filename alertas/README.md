@@ -9,6 +9,20 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## Windows PrintNightmare - (CVE-2021-1675)
+*Data: 01/07/2021*
+
+Vulnerabilidade crítica no serviço spooler do Windows Print permite a execução de código remoto e elevação de privilégios. Apelidada de PrintNightmare, a exploração desta vulnerabilidade permite o comprometimento do Controlador de Domínio.
+A Microsoft recomenda que o serviço Print Spooler seja desativado dos Controladores de Domínio e demais servidores não utilizados para impressão.
+
+> Computer Configuration -> Administrative Templates -> Printers -> Allow Print Spooler to accept client connections set this to Disabled:
+
+[CERT VultNote...](https://www.kb.cert.org/vuls/id/383432)
+
+[CISA Alert](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
+
+[Desabiltiar Spooler](https://docs.microsoft.com/en-us/defender-for-identity/cas-isp-print-spooler)
+
 ##  VMWare - Execução remota de código (CVE-2021-21985)
 *Data: 25/05/2021*
 
