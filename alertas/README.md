@@ -21,7 +21,7 @@ A Microsoft recomenda que o serviço Print Spooler seja desativado dos Controlad
 
 [CISA Alert](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
 
-[Desabiltiar Spooler](https://docs.microsoft.com/en-us/defender-for-identity/cas-isp-print-spooler)
+![](/img/cve-2021-34527.jpg)
 
 ##  VMWare - Execução remota de código (CVE-2021-21985)
 *Data: 25/05/2021*

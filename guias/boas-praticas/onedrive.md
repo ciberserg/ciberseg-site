@@ -15,9 +15,9 @@ O Microsoft OneDrive for Business é uma solução de armazenamento de arquivos 
 O OneDrive é mais uma das opções que a TI Corporativa disponibiliza para você armazenar seus arquivos de trabalho. Dependendo do tipo de informação que você tem no arquivo, um local pode ser mais indicado que outro:
 
 - Informações sabidamente confidencias ou protegidas por leis específicas NÃO devem ser armazenadas no OneDrive, por exemplo:
-- Arquivos que contenham dados cadastrais de alunos e empregados como: CPF, Endereço, RG, endereço, salários, renda, etc.;
-- Arquivos que contenham dados acadêmicos de alunos como: resultado de avaliações, pareceres, etc;
-- Arquivos que contenham dados financeiros como: mensalidades, bolsas, dívidas, etc;
+  - Arquivos que contenham dados cadastrais de alunos e empregados como: CPF, Endereço, RG, endereço, salários, renda, etc.;
+  - Arquivos que contenham dados acadêmicos de alunos como: resultado de avaliações, pareceres, etc;
+  - Arquivos que contenham dados financeiros como: mensalidades, bolsas, dívidas, boletos, etc.;
 - Outros tipos de informações podem ser armazenados desde que observada as recomendações de Uso seguro do OneDrive.
 
 ## Uso seguro
