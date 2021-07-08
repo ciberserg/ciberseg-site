@@ -17,6 +17,11 @@ A Microsoft recomenda que o serviço Print Spooler seja desativado dos Controlad
 
 > Computer Configuration -> Administrative Templates -> Printers -> Allow Print Spooler to accept client connections set this to Disabled:
 
+Atualização (08/07/2021 9:30)
+
+Patches lançados e disponíveis https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527
+Existem alguns relatos que os patches disponibilizados não corrigem completamente a vulnerabilidade, mas sua aplicação dificulta a exploração.
+
 [CERT VultNote...](https://www.kb.cert.org/vuls/id/383432)
 
 [CISA Alert](https://us-cert.cisa.gov/ncas/current-activity/2021/06/30/printnightmare-critical-windows-print-spooler-vulnerability)
