@@ -9,6 +9,13 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## Golpe do boleto volta repaginado usando dados coletados em megavazamentos
+*Data: 24/08/2021*
+
+Um golpe antigo que já afetou milhares de brasileiros voltou a ganhar força graças a megavazamentos de dados ocorridos recentemente. A Axur Segurança Cibernética afirma que criminosos voltaram a usar boletos falsos em golpes nos quais as vítimas são convencidas a pagá-los através do uso de informações que lhes são familiares.
+
+Fonte: https://canaltech.com.br/seguranca/golpe-do-boleto-volta-repaginado-usando-dados-coletados-em-megavazamentos-191782/
+
 ## Windows PrintNightmare - (CVE-2021-1675)
 *Data: 01/07/2021*
 
