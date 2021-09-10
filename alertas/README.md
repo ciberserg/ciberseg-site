@@ -9,6 +9,15 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## Microsoft MSHTML Remote Code Execution Vulnerability (CVE-2021-40444)
+*Data: 10/09/2021*
+
+Grave vulnerabilidade zero-day que pode ser explorada ao abrir um arquivo do Office malicioso. A solução de contorno é desabilitar o ActiveX do Internet Explorer.
+
+Referências:
+ - https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444
+ - https://www.kaspersky.com/blog/cve-2021-40444-vulnerability-mshtml/41728/
+
 ## Golpe do boleto volta repaginado usando dados coletados em megavazamentos
 *Data: 24/08/2021*
 
