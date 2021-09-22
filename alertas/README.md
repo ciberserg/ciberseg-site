@@ -9,6 +9,15 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## VMware alerta para falha grave no vCenter (
+*Data: 22/10/2021*
+
+A VMware emitiu um alerta sobre uma grave vulnerabilidade no vCenter. Correções foram disponibilizadas e devem ser aplicadas o mais rápido possível.
+
+Referências:
+ - https://www.vmware.com/security/advisories/VMSA-2021-0020.html
+ - https://core.vmware.com/vmsa-2021-0020-questions-answers-faq#section1
+
 ## Microsoft MSHTML Remote Code Execution Vulnerability (CVE-2021-40444)
 *Data: 10/09/2021*
 
