@@ -9,14 +9,27 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+## Apache Log4j2 Zero-Day - Log4Shell (CVE-2021-44228)
+*Data: 11/12/2021*
+
+Uma vulnerabilidade crítica de dia zero que afeta o Apache Log4j2 foi divulgada no dia 09/12. Apelidada de Log4Shell, quando explorada resulta em uma Execução de Código Remoto (RCE). Diversos relatos apontam que a vulnerabilidade está sendo ativamente explorada.
+
+O Log4j2 é uma biblioteca Java amplamente utilizada. A biblioteca faz parte do projeto Apache Logging Services da Apache Software Foundation.
+
+A versão 2.15.0 foi disponibilizada para correção do problema.
+
+Referências:
+  - [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
+  - [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)
+
 ## VMware alerta para falha grave no vCenter (VMSA-2021-0020)
 *Data: 22/09/2021*
 
 A VMware emitiu um alerta sobre uma grave vulnerabilidade no vCenter. Correções foram disponibilizadas e devem ser aplicadas o mais rápido possível.
 
 Referências:
- - https://www.vmware.com/security/advisories/VMSA-2021-0020.html
- - https://core.vmware.com/vmsa-2021-0020-questions-answers-faq#section1
+ - [https://www.vmware.com/security/advisories/VMSA-2021-0020.html](https://www.vmware.com/security/advisories/VMSA-2021-0020.html)
+ - [https://core.vmware.com/vmsa-2021-0020-questions-answers-faq#section1](https://core.vmware.com/vmsa-2021-0020-questions-answers-faq#section1)
 
 ## Microsoft MSHTML Remote Code Execution Vulnerability (CVE-2021-40444)
 *Data: 10/09/2021*
