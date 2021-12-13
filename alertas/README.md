@@ -16,11 +16,16 @@ Uma vulnerabilidade crítica de dia zero que afeta o Apache Log4j2 foi divulgada
 
 O Log4j2 é uma biblioteca Java amplamente utilizada. A biblioteca faz parte do projeto Apache Logging Services da Apache Software Foundation.
 
+O diagrama a seguir apresenta a forma de ataque e as possíveis tecnicas de proteção.
+
+![](/img/log4j_attack.png)
+
 A versão 2.15.0 foi disponibilizada para correção do problema.
 
 Referências:
   - [https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228)
   - [https://logging.apache.org/log4j/2.x/security.html](https://logging.apache.org/log4j/2.x/security.html)
+  - [https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/](https://www.govcert.ch/blog/zero-day-exploit-targeting-popular-java-library-log4j/)
 
 ## VMware alerta para falha grave no vCenter (VMSA-2021-0020)
 *Data: 22/09/2021*
