@@ -57,8 +57,8 @@ Alterar o nome do usuário default do CMS para evitar tentativas de quebra de se
 
 ## Instalar e configurar o plugin de segurança Wordfence
 Instalar o plugin de segurança wordfence. 
-- [https://www.wordfence.com/]()
-- [https://wordpress.org/plugins/wordfence/]()
+- [https://www.wordfence.com/](https://www.wordfence.com/)
+- [https://wordpress.org/plugins/wordfence/](https://wordpress.org/plugins/wordfence/)
 
 ### Desabilitar execução de arquivos PHP em pastas específicas
 Impedir que códigos maliciosos, backdoors sejam executados em pastas específicas, como a pasta de uploads por exemplo em caso de um atacante conseguir fazer o upload de um arquivo malicioso.
@@ -76,7 +76,7 @@ Habilite o [Segundo Fator de Autenticação](/faq/#o-que-e-autenticacao-de-dois-
 - Atualizar tabelas no banco de dados.
 - Alteração de valores do banco de dados manualmente.
 
-[https://www.hostinger.com.br/tutoriais/como-aumentar-seguranca-no-wordpress/]()
+[https://www.hostinger.com.br/tutoriais/como-aumentar-seguranca-no-wordpress/](https://www.hostinger.com.br/tutoriais/como-aumentar-seguranca-no-wordpress)
 
 ## Desativar a Edição de Arquivos no Painel do WordPress
 O WordPress vem com um editor de código embutido que permite editar arquivos de temas e plugins diretamente na área de administração do WordPress. Esse recurso pode ser um risco à segurança se a conta for comprometida, razão pela qual deverá ser desativado.
@@ -94,7 +94,7 @@ O XML-RPC foi ativado por padrão no WordPress, pois ajuda a conectar o site Wor
 Devido à sua natureza poderosa, o XML-RPC pode amplificar significativamente os ataques de força bruta.
 
 Tutorial para desativar o XML-RPC manualmente:
-[https://www.hostinger.com.br/tutoriais/o-que-e-xmlrpc-php/]()
+[https://www.hostinger.com.br/tutoriais/o-que-e-xmlrpc-php/](https://www.hostinger.com.br/tutoriais/o-que-e-xmlrpc-php/)
 
 ## Permissão de arquivos do WordPress
 Algumas das funcionalidades do WordPress precisam da permissão para que alguns arquivos sejam alterados no servidor. No entanto, permitir acesso à alteração de arquivos é um risco em potencial, principalmente em servidores compartilhados.
@@ -164,7 +164,7 @@ A cada atualização de versão que é feita no site esse arquivo volta a existi
 ## Criar uma chave de Segurança e SALT nova e específica para cada site no arquivo wp_config.php
 Um dos motivos que torna o `wp-config.php` importante é porque nele você pode criar Chaves de Segurança e Salts. Isso aumenta a segurança do site criptografando as informações do usuário. Por isso deve ser criada uma chave de Segurança e Salt nova e específica para cada site.
 O Wordpress fornece uma API que deve ser utilizada para geração das chaves Salts.
-[https://api.wordpress.org/secret-key/1.1/salt/]()
+[https://api.wordpress.org/secret-key/1.1/salt/](https://api.wordpress.org/secret-key/1.1/salt/)
 
 ## Modo Debugging
 Nos ambientes de produção sempre manter o modo debugging desativado.
