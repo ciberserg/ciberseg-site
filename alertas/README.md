@@ -9,6 +9,21 @@ tags:
 
 # Últimos alertas de Cibersegurança
 
+
+## Google lança atualização urgente para corrigir grave vulnerabilidade Zero-Day no Chrome - (CVE-2022-1364)
+*Data: 14/04/2022*
+
+O Google disponibilizou patches de emergência para resolver dois problemas de segurança em seu navegador Chrome, um dos quais diz estar sendo ativamente explorado.
+
+Registrado como CVE-2022-1364 , a falha gravidade está relacionada ao mecanismo JavaScript V8. Clément Lecigne, do Grupo de Análise de Ameaças do Google, foi creditado por relatar a falha em 13 de abril de 2022.
+
+Com a correção mais recente, o Google corrigiu um total de três vulnerabilidades Zero-Day no Chrome desde o início do ano. É também o segundo tipo de bug relacionado à JavaScript a ser corrigida em menos de um mês.
+
+Recomenda-se que os usuários atualizem o Chorme para a versão 100.0.4896.127 para Windows, macOS e Linux para impedir possíveis ameaças. Os usuários de navegadores baseados no Chromium, como Microsoft Edge, Brave, Opera e Vivaldi, também são aconselhados a aplicar as correções à medida que estiverem disponíveis.
+
+Referências:
+- [https://thehackernews.com/2022/04/google-releases-urgent-chrome-update-to.html](https://thehackernews.com/2022/04/google-releases-urgent-chrome-update-to.html)
+
 ## Apache Log4j2 Zero-Day - Log4Shell (CVE-2021-44228)
 *Data: 11/12/2021*
 
