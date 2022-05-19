@@ -47,9 +47,9 @@ No momento os serviços estão disponíveis para usuários dos seguintes domíni
  * @asav.org.br
  * @unisinos.br
 
-Para utilizar o serviço as pessoas destes domínios necessitam:
+\\Para utilizar o serviço as pessoas destes domínios necessitam:
  1. Fazer parte de um grupo de adoção do duplo fator de autenticação (2FA);
- 2. Abrir uma solicitação de liberação do duplo fator de autenticação (2FA) no portal da TI corporativa [ti.asav.org.br](https://ti.asav.org.br), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. 
+ 2. Abrir uma solicitação de liberação do duplo fator de autenticação (2FA) no portal da TI corporativa [ti.asav.org.br](https://ti.asav.org.br), na opção Serviços de TI e Infraestrutura => E-mail e Office 365 => Solicitação. \\
 
 ### Configurando o Duplo Fator de Autenticação (2FA)
 
