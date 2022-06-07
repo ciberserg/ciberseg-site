@@ -1,6 +1,6 @@
 # WhatsApp
 
-Novos golpes surgem todo dia para o WhatsApp. Sendo uma das ferramentas mais utilizadas, estpa sempre na mira de estalionatários. Descubra aqui mais sobre essas fraudes e saiba como se proteger. 
+Novos golpes surgem todo dia para o WhatsApp. Sendo uma das ferramentas mais utilizadas, esta sempre na mira de estelionatários. Descubra aqui mais sobre essas fraudes e saiba como se proteger. 
 
 [[toc]]
 
