@@ -110,13 +110,13 @@ Insira o seu número de telefone e depois clique em **Enviar SMS para mim**
 
 ![](/2fa-m365/print11.png)
 
-Um código de verificação será enviado para seu telefone, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar** 
+Um código de verificação será enviado para seu telefone, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação selecione a opção **voltar** 
 
 ![](/2fa-m365/print12.png)
 
 #### Configurando o Método Email:
 
-Na opção **Email de Autenticação não está configurado.**, clique em **Configurar agora** 
+Na opção **Email de Autenticação não está configurado**, clique em **Configurar agora** 
 
 ![](/2fa-m365/print10.png)
 
@@ -131,8 +131,6 @@ Um código de verificação será enviado para seu email pessoal, digite esse c�
 Configurados os dois métodos, é só clicar em **concluir** 
 
 ![](/2fa-m365/print15.png)
-
-Pronto você está com a sua conta do Office protegida.
 
 Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
 
