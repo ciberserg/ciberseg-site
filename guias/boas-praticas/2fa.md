@@ -71,6 +71,7 @@ Neste momento você não conseguirá ainda configurar o aplicativo. Ele só fica
 ![](/2fa-m365/img002.png)
 
 4. Para configurar o duplo fator de autenticação com Aplicativo móvel, acesse o **Microsoft Authenticator** previamente instalado no seu smartphone. 
+
 5. Selecione uma das opções apresentadas e clique em **Configurar**.
 
 ![](/2fa-m365/img003.png)
@@ -92,9 +93,42 @@ Se no passo 5 você selecionou a opção **Usar código de verificação**, voc�
 
 ![](/2fa-m365/img007.png)
 
-9. Para finalizar, basta clicar em **Concluido**.
+9. Na próxima tela, basta clicar em **Concluido**.
 
 ![](/2fa-m365/img008.png)
+
+Na próxima tela serão solicitados dois métodos adicionais para que você não perca acesso à sua conta. 
+Recomendamos que você utilize os métodos telefone e email pessoal(não pode ser o cooporativo).
+
+10. Configurando o Método Telefone:
+Na opção **Telefone de Autenticação está definido como +55 xxxxxxxx.**, clique em **Verificar**.
+
+![](/2fa-m365/print10.png)
+
+Insira o seu número de telefone e depois clique em "Enviar SMS para mim". 
+
+![](/2fa-m365/print11.png)
+
+Um código de verificação será enviado para seu telefone, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar** 
+
+![](/2fa-m365/print12.png)
+
+11. Configurando o Método Email:
+Na opção **Email de Autenticação não está configurado.**, clique em **Configurar agora**.
+
+![](/2fa-m365/print10.png)
+
+Insira o seu email pessoal e depois clique em **envie-me um email**.
+
+![](/2fa-m365/print13.png)
+
+Um código de verificação será enviado para seu email pessoal, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar** 
+
+![](/2fa-m365/print14.png)
+
+Configurados os dois métodos, é só clicar em **concluir**.
+
+Pronto você está com a sua conta do Office protegida.
 
 Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
 
