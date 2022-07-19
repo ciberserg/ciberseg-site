@@ -97,23 +97,25 @@ Se no passo 5 você selecionou a opção **Usar código de verificação**, voc�
 
 ![](/2fa-m365/img008.png)
 
-Na próxima tela serão solicitados dois métodos adicionais para que você não perca acesso à sua conta. 
-Recomendamos que você utilize os métodos telefone e email pessoal(não pode ser o cooporativo).
+# Na próxima etapa serão solicitados dois métodos adicionais para que você não perca acesso à sua conta. 
 
-10. Configurando o Método Telefone:
+Recomendamos que você utilize os métodos telefone e email(não pode ser o cooporativo).
+
+# Configurando o Método Telefone:
 Na opção **Telefone de Autenticação está definido como +55 xxxxxxxx.**, clique em **Verificar**.
 
 ![](/2fa-m365/print10.png)
 
-Insira o seu número de telefone e depois clique em "Enviar SMS para mim". 
+Insira o seu número de telefone e depois clique em **Enviar SMS para mim**. 
 
 ![](/2fa-m365/print11.png)
 
-Um código de verificação será enviado para seu telefone, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar** 
+Um código de verificação será enviado para seu telefone, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar**.
 
 ![](/2fa-m365/print12.png)
 
-11. Configurando o Método Email:
+# Configurando o Método Email:
+
 Na opção **Email de Autenticação não está configurado.**, clique em **Configurar agora**.
 
 ![](/2fa-m365/print10.png)
@@ -122,7 +124,7 @@ Insira o seu email pessoal e depois clique em **envie-me um email**.
 
 ![](/2fa-m365/print13.png)
 
-Um código de verificação será enviado para seu email pessoal, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar** 
+Um código de verificação será enviado para seu email pessoal, digite esse código no campo solicitado e depois clique em **verificar**. Após a validação é selecionar a opção **voltar**.
 
 ![](/2fa-m365/print14.png)
 
