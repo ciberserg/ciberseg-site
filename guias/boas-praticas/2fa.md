@@ -128,6 +128,8 @@ Um código de verificação será enviado para seu email pessoal, digite esse c�
 
 Configurados os dois métodos, é só clicar em **concluir**.
 
+![](/2fa-m365/print15.png)
+
 Pronto você está com a sua conta do Office protegida.
 
 Mais detalhes podem ser encontrados em: [](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings?redirectedfrom=MSDN)
