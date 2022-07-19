@@ -97,11 +97,11 @@ Se no passo 5 você selecionou a opção **Usar código de verificação**, voc�
 
 ![](/2fa-m365/img008.png)
 
-# Na próxima etapa serão solicitados dois métodos adicionais para que você não perca acesso à sua conta. 
+#### Na próxima etapa serão solicitados dois métodos adicionais para que você não perca acesso à sua conta. 
 
 Recomendamos que você utilize os métodos telefone e email(não pode ser o cooporativo).
 
-# Configurando o Método Telefone:
+##### Configurando o Método Telefone:
 Na opção **Telefone de Autenticação está definido como +55 xxxxxxxx.**, clique em **Verificar**.
 
 ![](/2fa-m365/print10.png)
@@ -114,7 +114,7 @@ Um código de verificação será enviado para seu telefone, digite esse código
 
 ![](/2fa-m365/print12.png)
 
-# Configurando o Método Email:
+##### Configurando o Método Email:
 
 Na opção **Email de Autenticação não está configurado.**, clique em **Configurar agora**.
 
