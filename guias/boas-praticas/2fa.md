@@ -47,6 +47,9 @@ No momento os serviços estão disponíveis para usuários dos seguintes domíni
  * @asav.org.br
  * @unisinos.br
  * @aneas.org.br
+ * @colegioanchieta.g12.br
+ * @colegiomedianeira.g12.br
+ * @colegiocatarinense.g12.br
 
 ### Configurando o Duplo Fator de Autenticação (2FA)
 
