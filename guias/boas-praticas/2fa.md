@@ -51,6 +51,7 @@ No momento os serviços estão disponíveis para usuários dos seguintes domíni
  * @colegiomedianeira.g12.br
  * @colegiocatarinense.g12.br
  * @faje.asav.org.br
+ * @csi.asav.org.br
 
 ### Configurando o Duplo Fator de Autenticação (2FA)
 
