@@ -42,17 +42,6 @@ O procedimento a seguir descreve as ações necessárias para configurar o duplo
 
 Assim que configurado, o segundo fator de autenticação será solicitado em todos os dispositivos nos quais a pessoa costuma acessar a conta: no notebook, desktop, smartphone ou tablet.
 
-### Quem pode usar o Duplo Fator de Autenticação (2FA) do Microsoft 365?
-No momento os serviços estão disponíveis para usuários dos seguintes domínios:
- * @asav.org.br
- * @unisinos.br
- * @aneas.org.br
- * @colegioanchieta.g12.br
- * @colegiomedianeira.g12.br
- * @colegiocatarinense.g12.br
- * @faje.asav.org.br
- * @csi.asav.org.br
-
 ### Configurando o Duplo Fator de Autenticação (2FA)
 
 Após o duplo fator de autenticação (2FA) ser habilitada em sua conta, você deverá concluir a configuração acessando o Microsoft 365 via navegador ou entrando diretamente no endereço [https://aka.ms/MFASetup](https://aka.ms/MFASetup).
