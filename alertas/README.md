@@ -1,7 +1,7 @@
 ---
 title: Últimas alertas de Cibersegurança
 sidebar: auto
-tags:
+tags: 
   - alertas
   - vulnerabilidades
   - riscos
@@ -133,3 +133,5 @@ Conhecida como "Zerologon", uma falha no esquema de autenticação principal do 
 Uma falha no gerenciamento de memória do serviço Common Information Model (CIM) do VMWare pode permitir o acesso incorreto a determinado espaço alocado após o seu uso (user-after-free). A exploração desta vulnerabilidade pode permitir que um usuário malicioso que tenha acesso à rede de gerenciamento e ao protocolo OpenSLP, porta TCP/427, realize a execução de códigos com os privilégios administrativos em um host ESXi e hosts virtuais hospedados, podendo, inclusive, causar infecção massiva por ransomware.
 
 [Maiores informações...](https://www.vmware.com/security/advisories/VMSA-2020-0023.html)
+
+Teste
