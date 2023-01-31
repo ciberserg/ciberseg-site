@@ -10,7 +10,7 @@ tags:
 # Últimos alertas de Cibersegurança
 
 
-## Google lança atualização urgente para corrigir grave vulnerabilidade Zero-Day no Chrome - (CVE-2022-1364)
+## O Google lança atualização urgente para corrigir grave vulnerabilidade Zero-Day no Chrome - (CVE-2022-1364)
 *Data: 14/04/2022*
 
 O Google disponibilizou patches de emergência para resolver dois problemas de segurança em seu navegador Chrome, um dos quais diz estar sendo ativamente explorado.
@@ -133,5 +133,3 @@ Conhecida como "Zerologon", uma falha no esquema de autenticação principal do 
 Uma falha no gerenciamento de memória do serviço Common Information Model (CIM) do VMWare pode permitir o acesso incorreto a determinado espaço alocado após o seu uso (user-after-free). A exploração desta vulnerabilidade pode permitir que um usuário malicioso que tenha acesso à rede de gerenciamento e ao protocolo OpenSLP, porta TCP/427, realize a execução de códigos com os privilégios administrativos em um host ESXi e hosts virtuais hospedados, podendo, inclusive, causar infecção massiva por ransomware.
 
 [Maiores informações...](https://www.vmware.com/security/advisories/VMSA-2020-0023.html)
-
-Teste
